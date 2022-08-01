@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 
+--> Gustavo
 - 🌱 JOptionPane.showMessageDiaLog("Gosto de comer erva doce");
 - 👯 JOptionPane.showMessageDiaLog("Gosto de coco");
 - 🤔 JOptionPane.showMessageDiaLog("Sejamos pensativos");
@@ -13,6 +13,5 @@ Here are some ideas to get you started:
 - 📫 JOptionPane.showMessageDiaLog("Não gosto de ler");
 - 😄 JOptionPane.showMessageDiaLog("Soou uma pessoa bm otimista");
 - ⚡ Jogador de Csgo, e rocket league
---> Gustavo
 
 
